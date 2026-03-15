@@ -19,7 +19,7 @@ DEV_SPACY_PATH = OUTPUT_DIR / "dev.spacy"
 
 INPUT_FILES = [
     RAW_DIR / "train.jsonl",
-    RAW_DIR / "dev.jsonl",
+    RAW_DIR / "valid.jsonl",
     RAW_DIR / "test.jsonl",
 ]
 
