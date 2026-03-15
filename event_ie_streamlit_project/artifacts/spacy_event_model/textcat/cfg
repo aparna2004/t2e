@@ -1,0 +1,12 @@
+{
+  "labels":[
+    "Attack",
+    "Disaster",
+    "Injury",
+    "Investigation",
+    "None",
+    "Protest"
+  ],
+  "threshold":0.0,
+  "positive_label":null
+}
